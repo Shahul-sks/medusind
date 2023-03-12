@@ -1,0 +1,8 @@
+C:\Users\Shahul singh\source\linqassgn\linqassgn\bin\Debug\linqassgn.exe.config
+C:\Users\Shahul singh\source\linqassgn\linqassgn\bin\Debug\linqassgn.exe
+C:\Users\Shahul singh\source\linqassgn\linqassgn\bin\Debug\linqassgn.pdb
+C:\Users\Shahul singh\source\linqassgn\linqassgn\obj\Debug\linqassgn.csproj.AssemblyReference.cache
+C:\Users\Shahul singh\source\linqassgn\linqassgn\obj\Debug\linqassgn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shahul singh\source\linqassgn\linqassgn\obj\Debug\linqassgn.csproj.CoreCompileInputs.cache
+C:\Users\Shahul singh\source\linqassgn\linqassgn\obj\Debug\linqassgn.exe
+C:\Users\Shahul singh\source\linqassgn\linqassgn\obj\Debug\linqassgn.pdb
